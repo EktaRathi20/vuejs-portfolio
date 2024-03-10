@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "Ekta Rathi",
+      "email": "rathiekta20@gmail.com",
+      "password": "ekta@001",
+      "id": 1
+    },
+    {
+      "name": "Shreya ",
+      "email": "Shreya01@gmail.com",
+      "password": "shreyash@06",
+      "id": 2
+    },
+    {
+      "name": "Jigyasa",
+      "email": "jigyasa09@gmail.com",
+      "password": "jiji09",
+      "id": 3
+    },
+    {
+      "name": "Yamini",
+      "email": "yamini01@gmail.com",
+      "password": "yamini01",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "sardarpura a-rd",
+      "contact": 9412345612
+    },
+    {
+      "name": "Burger King",
+      "address": "sardarpura b-rd",
+      "contact": 9087345621,
+      "id": 2
+    },
+    {
+      "name": "Burgrill",
+      "address": "sardarpura d-rd",
+      "contact": "9900776655",
+      "id": 4
+    }
+  ]
+}
